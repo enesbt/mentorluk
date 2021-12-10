@@ -8,5 +8,4 @@ yeni branch açılmadıkça master branchinde çalışılır yeni branchler aç�
 git checkout -b "":yeni branch oluştururr ve o branche geçer
 merge:ile branchlerimizi birleştirebiliriz
 git checkout master : master branchine geçiş yapar
-git status:projede yapılan değişikleri gösterir
-git diff:projde yapılan değişiklikleri gösterir
+ 
