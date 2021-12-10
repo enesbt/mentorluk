@@ -1,0 +1,11 @@
+git init : ilk dosya oluştuğunda onu git dizinine alınır 
+git add: dosyayı staging area ya geçirmiş oluruz
+git commit: local repo ya kayıt edilir isim verilerek versiyon belirlenir
+git push : uzaktaki repoya kayıt için (github)
+git log : değişiklik tarihi ve kimin yaptığı görülür
+git branch: kullanıcının çalıştığı projenin farklı versiyonlarına erişmesini sağlar
+yeni branch açılmadıkça master branchinde çalışılır yeni branchler açıldığında onlarda yapılan değişiklikler masteri etkilemez
+git checkout -b "":yeni branch oluştururr ve o branche geçer
+merge:ile branchlerimizi birleştirebiliriz
+git checkout master : master branchine geçiş yapar
+ 
